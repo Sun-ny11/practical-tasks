@@ -1,0 +1,42 @@
+.max {
+   color: red;
+}
+
+body {
+   background-color: rgb(205, 211, 212)
+}
+
+.main {
+   width: 500px;
+   height: 500px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   margin: 0px auto;
+   font-size: 50px;
+   font-weight: 500;
+}
+
+
+.count {
+   width: 90%;
+   height: 100px;
+   text-align: center;
+   line-height: 100px;
+}
+
+button {
+   width: 120px;
+   height: 40px;
+   margin-top: 40px;
+   margin: 50px;
+   background-color: transparent;
+   border-radius: 10px;
+   font-size: 20px;
+
+}
+
+h1 {
+   font-size: 50px;
+}
